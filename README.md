@@ -1,0 +1,2 @@
+# SolitaireJS
+Solitaire game
